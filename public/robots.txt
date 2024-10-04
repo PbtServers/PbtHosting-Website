@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rabbit-hosting.com/sitemap-index.xml
+Sitemap: https://pbtservers.com/sitemap-index.xml
