@@ -1,8 +1,8 @@
 {
-  "name": "rabbithosting-website",
-  "description": "Website for Rabbit Hosting",
+  "name": "pbthosting-website",
+  "description": "Website for PbtHosting",
   "type": "module",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
