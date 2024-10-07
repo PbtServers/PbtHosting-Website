@@ -1,0 +1,60 @@
+Política de Privacidad de PbtSystems
+
+Última actualización: [07-2024]
+
+PbtSystems ("PbtSystems", "nosotros", "nos" o "nuestro") opera el sitio web pbtservers.com (el "Servicio").
+
+Esta página le informa sobre nuestras políticas con respecto a la recopilación, el uso y la divulgación de información personal cuando utiliza nuestro Servicio y las opciones que ha asociado con esa información.
+Utilizamos su información personal para proporcionar y mejorar el Servicio. Al utilizar el Servicio, usted acepta la recopilación y el uso de la información de acuerdo con esta política.
+
+Información que recopilamos -->
+
+Información personal
+
+Mientras usa nuestro Servicio, podemos pedirle que nos proporcione cierta información de identificación personal que puede usarse para contactarlo o identificarlo ("Información personal"). La información de identificación personal puede incluir, pero no se limita a:
+
+- Dirección de correo electrónico
+- Nombre y apellido
+- Número de teléfono
+- Dirección
+- Información de la tarjeta de crédito
+
+Datos de uso
+
+También podemos recopilar información sobre cómo se accede y utiliza el Servicio ("Datos de uso"). Estos datos de uso pueden incluir información como la dirección del Protocolo de Internet de su computadora (por ejemplo, dirección IP), el tipo de navegador, la versión del navegador, las páginas de nuestro Servicio que visita, la hora y fecha de su visita, el tiempo que pasó en esas páginas, identificadores de dispositivos y otros datos de diagnóstico.
+
+Datos de seguimiento y cookies
+
+Utilizamos cookies y tecnologías de seguimiento similares para rastrear la actividad en nuestro Servicio y retener cierta información.
+
+Las cookies son archivos con una pequeña cantidad de datos que pueden incluir un identificador único anónimo. Las cookies se envían a su navegador desde un sitio web y se almacenan en su dispositivo. Las tecnologías de seguimiento también utilizadas son balizas, etiquetas y scripts para recopilar y rastrear información y para mejorar y analizar nuestro Servicio.
+Puede indicar a su navegador que rechace todas las cookies o que indique cuándo se envía una cookie. Sin embargo, si no acepta las cookies, es posible que no pueda utilizar algunas partes de nuestro Servicio.
+
+Ejemplos de cookies que utilizamos:
+
+- Cookies de sesión. Utilizamos cookies de sesión para operar nuestro Servicio.
+- Cookies de preferencia. Utilizamos cookies de preferencia para recordar sus preferencias y varias configuraciones.
+- Cookies de seguridad. Utilizamos cookies de seguridad con fines de seguridad.
+
+Uso de datos
+
+PbtSystems utiliza los datos recopilados para diversos fines:
+
+- Para proporcionar y mantener nuestro Servicio
+- Para notificarle sobre cambios en nuestro Servicio
+- Para permitirle participar en funciones interactivas de nuestro Servicio cuando elija hacerlo
+- Para brindar atención al cliente
+- Para recopilar análisis o información valiosa para que podamos mejorar nuestro Servicio
+- Para monitorear el uso del Servicio
+- Para detectar, prevenir y abordar problemas técnicos
+- Para proporcionarle noticias, ofertas especiales e información general sobre otros bienes, servicios y eventos que ofrecemos que son similares a los que ya ha comprado o consultado, a menos que haya optado por no recibir dicha información
+
+Transferencia de datos
+
+Su información, incluida la información personal, puede transferirse a computadoras ubicadas fuera de su estado, provincia, país u otra jurisdicción gubernamental donde las leyes de protección de datos pueden diferir de las de su jurisdicción.
+
+Si se encuentra fuera de españa y elige proporcionarnos información, tenga en cuenta que transferimos la información, incluida la información personal, a españa y la procesamos allí.
+
+Su consentimiento a esta Política de privacidad seguido de su envío de dicha información representa su acuerdo con esa transferencia.
+
+PbtSystems

@@ -1,0 +1,96 @@
+Términos de Servicio de PbtSystems
+
+Última actualización: [07-2024]
+
+Gracias por elegir PbtSystems ("PbtSystems", "nosotros", "nos" o "nuestro") para sus necesidades de alojamiento. Estos Términos de Servicio ("Términos") rigen su acceso y uso de nuestro sitio web, servicios, productos y contenido (colectivamente, los "Servicios"). Lea atentamente estos Términos antes de utilizar los Servicios.
+Al acceder o utilizar los Servicios, usted ("usted" o "su") acepta estar sujeto a estos Términos. Si no está de acuerdo con estos Términos, no acceda ni utilice los Servicios.
+
+1. Cuenta y Uso Aceptable
+
+1.1. Elegibilidad. Debe tener al menos 18 años de edad para utilizar los Servicios. Al utilizar los Servicios, usted declara y garantiza que tiene al menos 18 años de edad y que está legalmente autorizado para celebrar contratos vinculantes.
+
+1.2. Su cuenta. Usted es responsable de mantener la confidencialidad de su cuenta y contraseña, y es totalmente responsable de todas las actividades que ocurran bajo su cuenta. Usted acepta notificarnos inmediatamente sobre cualquier uso no autorizado de su cuenta o cualquier otra violación de seguridad.
+
+1.3. Uso aceptable. Usted acepta utilizar los Servicios únicamente para fines legales y de acuerdo con estos Términos. Usted acepta no utilizar los Servicios:
+
+- De cualquier manera que viole cualquier ley o regulación local, estatal, nacional o internacional.
+- Para transmitir cualquier material ilegal, dañino, amenazante, abusivo, acosador, tortuoso, difamatorio, vulgar, obsceno, calumnioso, invasivo de la privacidad de otro, odioso o racial, étnica u otra inaceptable.
+- Para hacerse pasar por cualquier persona o entidad, o tergiversar falsamente su afiliación con una persona o entidad.
+- Para interferir o interrumpir los Servicios o los servidores o redes conectadas a los Servicios.
+- Para violar los procedimientos de seguridad o autenticación de los Servicios.
+- Para acceder a los Servicios a través de cualquier medio que no sea la interfaz proporcionada por PbtSystems.
+- Para intentar interferir con el servicio a cualquier usuario, host o red, incluyendo, sin limitación, mediante la presentación de un virus a los Servicios, sobrecarga, "inundación", "spam", "bombardeo de correo", "rastreo web" o "araña web".
+- Para recopilar o recopilar información personal identificable sobre otros usuarios de los Servicios sin su consentimiento expreso.
+- Para cualquier propósito ilegal o no autorizado.
+
+1.4. Uso de recursos. Los planes de alojamiento web compartido están diseñados para sitios web con tráfico moderado y uso de recursos. No se permite el uso excesivo de recursos del servidor que afecte negativamente a otros usuarios. PbtSystems se reserva el derecho de suspender o limitar su cuenta si se determina que está utilizando una cantidad excesiva de recursos del servidor.
+
+2. Contenido
+
+2.1. Su contenido. Usted es el único responsable de todo el contenido que cargue, publique, transmita o ponga a disposición a través de los Servicios ("Su Contenido"). Usted declara y garantiza que tiene todos los derechos necesarios para otorgarnos los derechos otorgados en estos Términos con respecto a Su Contenido.
+
+2.2. Contenido prohibido. Usted acepta no cargar, publicar, transmitir o poner a disposición a través de los Servicios ningún Contenido que:
+
+- Sea ilegal, dañino, amenazante, abusivo, acosador, tortuoso, difamatorio, vulgar, obsceno, calumnioso, invasivo de la privacidad de otro, odioso o racial, étnica u otra inaceptable.
+- Infrinja cualquier patente, marca comercial, secreto comercial, derecho de autor u otro derecho de propiedad intelectual de cualquier parte.
+- Constituya publicidad no solicitada o no autorizada, materiales promocionales, "correo basura", "spam", "cartas en cadena", "esquemas piramidales" o cualquier otra forma de solicitud.
+- Contenga cualquier virus de software u otro código informático, archivos o programas que estén diseñados para interrumpir, destruir o limitar la funcionalidad de cualquier software o hardware informático o equipo de telecomunicaciones.
+
+2.3. Monitoreo de contenido. No estamos obligados a monitorear Su Contenido. Sin embargo, nos reservamos el derecho de hacerlo y de eliminar o bloquear cualquier Contenido que, a nuestra entera discreción, consideremos objetable o que viole estos Términos.
+
+2.4. Respaldos. Usted es el único responsable de hacer copias de seguridad de Su Contenido. No somos responsables de ninguna pérdida o daño a Su Contenido.
+
+3. Pagos y Facturación
+
+3.1. Tarifas. Usted acepta pagar todas las tarifas aplicables por los Servicios según lo establecido en nuestro sitio web. Todas las tarifas no son reembolsables, excepto lo que se indica expresamente en estos Términos.
+
+3.2. Facturación. Le facturaremos automáticamente a través del método de pago que nos proporcione en el momento de la compra, en cada período de facturación recurrente. Usted es responsable de mantener actualizada la información de su método de pago.
+
+3.3. Impuestos. Usted es responsable de todos los impuestos aplicables relacionados con su uso de los Servicios.
+
+3.4. Renovación automática. A menos que cancele su suscripción antes de su fecha de facturación, su suscripción se renovará automáticamente por un período de renovación adicional al precio entonces vigente.
+
+4. Terminación
+
+4.1. Por su parte. Puede cancelar su cuenta en cualquier momento. Su cancelación entrará en vigencia al final de su ciclo de facturación actual.
+
+4.2. Por nuestra parte. Podemos rescindir su acceso a los Servicios, en su totalidad o en parte, en cualquier momento y por cualquier motivo, con o sin previo aviso, incluyendo, sin limitación, si usted viola estos Términos.
+
+4.3. Efecto de la terminación. Tras la terminación por cualquier motivo: (a) su derecho a acceder y utilizar los Servicios cesará inmediatamente; (b) eliminaremos todo Su Contenido de los Servicios; y (c) no tendremos ninguna obligación adicional hacia usted.
+
+5. Renuncias
+
+LOS SERVICIOS SE PROPORCIONAN "TAL CUAL" Y "SEGÚN DISPONIBILIDAD". PbtSystems RENUNCIA EXPRESAMENTE A TODAS LAS GARANTÍAS DE CUALQUIER TIPO, YA SEA EXPRESA O IMPLÍCITA, INCLUYENDO, PERO SIN LIMITARSE A, LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. PbtSystems NO GARANTIZA QUE LOS SERVICIOS SERÁN ININTERRUMPIDOS O LIBRES DE ERRORES, QUE LOS DEFECTOS SE CORREGIRÁN O QUE LOS SERVICIOS ESTÉN LIBRES DE VIRUS U OTROS COMPONENTES DAÑINOS.
+
+6. Limitación de responsabilidad
+
+EN NINGÚN CASO PbtSystems SERÁ RESPONSABLE POR NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, CONSECUENTE O EJEMPLAR (INCLUYENDO, PERO SIN LIMITARSE A, DAÑOS POR PÉRDIDA DE BENEFICIOS, DATOS, USO, FONDO DE COMERCIO O OTRAS PÉRDIDAS INTANGIBLES), QUE SURJAN O ESTÉN RELACIONADOS CON SU USO O IMPOSIBILIDAD DE USO DE LOS SERVICIOS, INCLUSO SI PbtSystems HA SIDO ADVERTIDA DE LA POSIBILIDAD DE TALES DAÑOS.
+
+7. Indemnización
+
+Usted acepta defender, indemnizar y mantener indemne a PbtSystems, sus funcionarios, directores, empleados, agentes, licenciantes y proveedores de y contra todas y cada una de las reclamaciones, responsabilidades, daños, juicios, laudos, costos y gastos (incluidos, entre otros, los honorarios razonables de abogados) que surjan de o estén relacionados con (a) su uso de los Servicios, (b) Su Contenido, o (c) su violación de estos Términos.
+
+8. Ley aplicable y jurisdicción
+
+Estos Términos se regirán e interpretarán de acuerdo con las leyes de españa. Usted acepta someterse a la jurisdicción exclusiva de los tribunales ubicados en españa para cualquier disputa que surja de o esté relacionada con estos Términos
+
+9. Divisibilidad
+
+Si alguna disposición de estos Términos se considera inválida o inaplicable, dicha disposición se eliminará y las disposiciones restantes permanecerán en pleno vigor y efecto.
+
+10. Acuerdo completo
+
+Estos Términos constituyen el acuerdo completo y exclusivo entre usted y PbtSystems con respeto a los Servicios y reemplazan cualquier acuerdo o comunicación previa, ya sea oral o escrita.
+
+11. Modificaciones a estos Términos
+
+Nos reservamos el derecho de modificar estos Términos en cualquier momento publicando los Términos revisados en nuestro sitio web. Usted es responsable de revisar estos Términos periódicamente para conocer cualquier cambio. Su uso continuado de los Servicios después de la publicación de cualquier cambio a estos Términos constituirá su aceptación de dichos cambios.
+
+12. Información de contacto
+
+Si tiene alguna pregunta sobre estos Términos, contáctenos en:
+
+PbtSystems
+
+https://tickets.pbtservers.com
+pbt@pbtservers.com
